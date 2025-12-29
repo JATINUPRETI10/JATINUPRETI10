@@ -1,5 +1,5 @@
 #  About Me:
-Deep Learning & Generative AI engineer working on LLMs, agentic AI, MCP servers, NLP, and automation frameworks like CrewAI and n8n.<br>Collaborate on: GenAI, AI agents, open-source AI infrastructure  <br>Need help with: LLM scaling, inference, and deployment  <br>Learning: Advanced Deep Learning, RAG, and multi-agent systems  <br>Ask me about: LLMs, GenAI pipelines, and MCP servers  <br>
+Deep Learning & Generative AI student engineer working on LLMs, agentic AI, MCP servers, NLP, and automation frameworks like CrewAI and n8n.<br>Collaborate on: GenAI, AI agents, open-source AI infrastructure  <br>Need help with: LLM scaling, inference, and deployment  <br>Learning: Advanced Deep Learning, RAG, and multi-agent systems  <br>Ask me about: LLMs, GenAI pipelines, and MCP servers  <br>
 
 
 #  Tech Stack:
